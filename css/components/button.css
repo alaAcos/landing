@@ -1,0 +1,27 @@
+.btn-banner {
+  color: #FAFAFF;
+  padding: 10px 25px;
+  border-radius: 45%;
+  font-weight: bold;
+  background: #FF8600;
+  transition: background 0.3s ease;
+}
+
+.btn-banner:hover {
+  background: #FFEC51;
+  border-radius: 50%;
+}
+
+.btn-card {
+  color: #FAFAFF;
+  padding: 5px;
+  border-radius: 45%;
+  font-weight: bold;
+  background: #1E3888;
+  transition: background 0.3s ease;
+}
+
+.btn-card:hover {
+  background: #E3170A;
+  border-radius: 50%;
+}

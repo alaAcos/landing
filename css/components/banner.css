@@ -1,0 +1,15 @@
+.banner {
+  background-image: linear-gradient(rgba(0,0,0,0.1), rgba(0,0,0,0.1)), url(../../images/boomsupersonic.jpeg);
+  background-size: cover;
+  background-position: center;
+
+  border: 0 auto;
+  color: white;
+  text-align: center;
+  padding: 200px 0px;
+  margin: 0 auto;
+}
+
+.banner p {
+  font-size: 20px;
+}

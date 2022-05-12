@@ -1,0 +1,20 @@
+.footer {
+  background-color: #FAFAFF;
+  color: #1E3888;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px 0;
+}
+
+.footer h2 {
+  font-size: 10px;
+}
+
+.footer-icon i {
+  font-size: 20px;
+  background-color: #1E3888;
+  padding: 0 20px;
+}
